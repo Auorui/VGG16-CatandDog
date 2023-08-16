@@ -1,4 +1,4 @@
-![image](https://github.com/Auorui/VGG16-CatandDog/assets/100789256/f95bd5ff-2817-4f2d-a5d3-5a81190356f0)# VGG16-CatandDog
+# VGG16-CatandDog
 Explore the effectiveness of the VGG model, which achieved significant results in the ImageNet image classification competition in 2014, and use VGG for cat and dog classification
 
 # VGG Model Principle
